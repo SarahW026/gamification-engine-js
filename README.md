@@ -2,11 +2,11 @@
 
 A backend‑driven, event‑based gamification engine for awarding **XP, levels, and achievements** in non‑game applications.
 
-This library was developed as part of the [Stellara Personal Development Platform](https://github.com/Sarahw54545/fyp-gamified-personal-development-app) and is designed to be **framework‑agnostic**, reusable, and resistant to common progression exploits.
+This library was developed as part of the [Stellara Personal Development Platform](https://github.com/SarahW026/fyp-gamified-personal-development-app) and is designed to be **framework‑agnostic**, reusable, and resistant to common progression exploits.
 
 ## 📘 Documentation 
 
-- [GitHub Pages Site](https://sarahw54545.github.io/gamification-engine-js/)
+- [GitHub Pages Site](https://sarahw026.github.io/gamification-engine-js/)
 
 ---
 
@@ -122,7 +122,7 @@ An example Express.js integration is provided in the `examples` directory, demon
 ## 🔗 Used In
 
 - **Stellara – Gamified Personal Development App**  
-  https://github.com/Sarahw54545/fyp-gamified-personal-development-app
+  https://github.com/SarahW026/fyp-gamified-personal-development-app
 
 ---
 
